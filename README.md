@@ -17,7 +17,7 @@ Pressure at Gale Crater swings between about **700 and 925 Pa** every Martian ye
 - **Highest maximum (Ls ≈ 250°):** southern spring and summer. The south cap sublimates back into the air.
 - **Smaller peak (Ls ≈ 50°):** the same process at the smaller north polar cap.
 
-*In one sentence:* Mars's pressure rises and falls because a large part of its CO₂ atmosphere freezes onto whichever pole is in winter and returns when it warms.
+*TLDR:* Mars's pressure rises and falls because a large part of its CO₂ atmosphere freezes onto whichever pole is in winter and returns when it warms.
 
 ### 2. The rover's climb shows up in the pressure data
 ![Pressure timeline](pressure_timeline.png)
