@@ -80,7 +80,7 @@ The filter did **not** remove the 2018 dust storm, even though those sols look u
 ```bash
 python -m venv venv
 venv\Scripts\activate            # Mac/Linux: source venv/bin/activate
-pip install pandas matplotlib jupyter
+pip install -r requirements.txt
 ```
 Download the dataset CSV into the project folder, open `mars_weather.ipynb` and choose **Run All**.
 
